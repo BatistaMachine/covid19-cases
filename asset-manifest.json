@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BatistaMachine/covid19-cases.git/static/css/main.d1d31c66.chunk.css",
+    "main.js": "/BatistaMachine/covid19-cases.git/static/js/main.af73ca80.chunk.js",
+    "main.js.map": "/BatistaMachine/covid19-cases.git/static/js/main.af73ca80.chunk.js.map",
+    "runtime-main.js": "/BatistaMachine/covid19-cases.git/static/js/runtime-main.34f64ad9.js",
+    "runtime-main.js.map": "/BatistaMachine/covid19-cases.git/static/js/runtime-main.34f64ad9.js.map",
+    "static/js/2.240fb3f1.chunk.js": "/BatistaMachine/covid19-cases.git/static/js/2.240fb3f1.chunk.js",
+    "static/js/2.240fb3f1.chunk.js.map": "/BatistaMachine/covid19-cases.git/static/js/2.240fb3f1.chunk.js.map",
+    "static/js/3.816a54f9.chunk.js": "/BatistaMachine/covid19-cases.git/static/js/3.816a54f9.chunk.js",
+    "static/js/3.816a54f9.chunk.js.map": "/BatistaMachine/covid19-cases.git/static/js/3.816a54f9.chunk.js.map",
+    "index.html": "/BatistaMachine/covid19-cases.git/index.html",
+    "static/css/main.d1d31c66.chunk.css.map": "/BatistaMachine/covid19-cases.git/static/css/main.d1d31c66.chunk.css.map",
+    "static/js/2.240fb3f1.chunk.js.LICENSE.txt": "/BatistaMachine/covid19-cases.git/static/js/2.240fb3f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34f64ad9.js",
+    "static/js/2.240fb3f1.chunk.js",
+    "static/css/main.d1d31c66.chunk.css",
+    "static/js/main.af73ca80.chunk.js"
+  ]
+}
